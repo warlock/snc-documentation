@@ -1,8 +1,8 @@
-# Introduction
+# Asyncronous Iterators Collection
 
 > Asyncronous Iterators Collection
 
-![snc](.gitbook/assets/snc.png)
+![snc](../.gitbook/assets/snc.png)
 
 * [http://snc.js.gl](http://snc.js.gl)
 * [http://npmjs.com/package/snc](http://npmjs.com/package/snc)
